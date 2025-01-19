@@ -31,7 +31,7 @@ Age: 3M (3 Months)
 https://www.ncbi.nlm.nih.gov/sra/SRR9833662
 
 ## Files Included
-* msPIPE \
+* msPIPE @ 65a63da \
 The original DNA Methylation Analysis Pipeline created by the authors.
 
 * mspipe_sbatch.sh \
