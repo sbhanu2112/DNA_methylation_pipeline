@@ -1,0 +1,3 @@
+[submodule "msPIPE2"]
+	path = msPIPE2
+	url = https://github.com/jkimlab/msPIPE.git
