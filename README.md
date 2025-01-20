@@ -20,14 +20,14 @@ Sample 1 (Control Sample)\
 Accession number: SRR9833670 \
 Name: WGBS_24M_rep1 \
 Species: Mus musculus \
-Age: 24M (24 Months)
+Age: 24M (24 Months) \
 https://ncbi.nlm.nih.gov/sra/SRR9833670
  
 Sample 2 (Experimental Sample) \
 Accession number: SRR9833662 \
 Name: WGBS_3M_rep1 \
 Species: Mus musculus \
-Age: 3M (3 Months)
+Age: 3M (3 Months) \
 https://www.ncbi.nlm.nih.gov/sra/SRR9833662
 
 ## Files Included
